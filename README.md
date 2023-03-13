@@ -24,7 +24,5 @@
  #
 
  <div margin-top="10px>
-<a href="www.linkedin.com/in/pedro-lucas-gomes-8b09621a9" target="_blank">
-Linkedin
-</a>
+<a href="www.linkedin.com/in/pedro-lucas-gomes-8b09621a9" target="_blank">Linkedin</a>
  </div>
