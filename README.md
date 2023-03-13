@@ -20,9 +20,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   
 </div>
- #
- #
 
- <div margin-top="10px>
-<a href="www.linkedin.com/in/pedro-lucas-gomes-8b09621a9" target="_blank">Linkedin</a>
- </div>
