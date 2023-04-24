@@ -8,7 +8,7 @@
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 </div>
 
-<img src="https://raw.githubusercontent.com/pedrojobs13/pedrojobs13/main/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://raw.githubusercontent.com/pedrojobs13/pedrojobs13/main/computer-illustration01.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left"> 
   Bom dia! Meu nome é Pedro Lucas e sou <strong>Programador</strong> JavaScript, Java e React.<br>
