@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, TypeScript, React e Java...</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript, TypeScript e Java...</strong>
 </p>
 
 <p align="left">
